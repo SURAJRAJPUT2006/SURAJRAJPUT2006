@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Suraj 👋
 
-<!--
-**SURAJRAJPUT2006/SURAJRAJPUT2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SaaS Revenue Analytics Contractor**
+I help B2B SaaS teams find hidden churn risk, MRR leakage, and expansion
+opportunities — using SQL, Python, and executive dashboards.
 
-Here are some ideas to get you started:
+### 📌 Featured Projects
+- 🔍 [Velocity SaaS Revenue Analysis](link) — $411K silent MRR risk, 98% recall churn model
+- 🛒 [Olist E-Commerce Analysis](link) — $7.2M revenue opportunity surfaced
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+SQL · Python · Scikit-learn · Looker Studio · Streamlit
+
+### 📬 Open for remote contract work
+[Portfolio](link) · [LinkedIn](link) · [Sample Audit PDF](link)
