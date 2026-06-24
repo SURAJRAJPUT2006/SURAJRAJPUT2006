@@ -12,4 +12,4 @@ opportunities — using SQL, Python, and executive dashboards.
 SQL · Python · Scikit-learn · Looker Studio · Streamlit
 
 ### 📬 Open for remote contract work
-[Portfolio](link) · [LinkedIn](https://www.linkedin.com/in/suraj-rajput-155a24404/) · [Sample Audit PDF](https://drive.google.com/file/d/1eEQFxm50r3nhVU72WLF8RTSvaIJSJVnQ/view?usp=sharing)
+[Portfolio](https://suraj-saas-analytics.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/suraj-rajput-155a24404/) · [Sample Audit PDF](https://drive.google.com/file/d/1eEQFxm50r3nhVU72WLF8RTSvaIJSJVnQ/view?usp=sharing)
