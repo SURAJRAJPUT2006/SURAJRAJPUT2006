@@ -6,7 +6,7 @@ opportunities — using SQL, Python, and executive dashboards.
 
 ### 📌 Featured Projects
 - 🔍 [Velocity SaaS Revenue Analysis](https://github.com/SURAJRAJPUT2006/b2b-saas-revenue-analytics.git) — $411K silent MRR risk, 98% recall churn model
-- 🛒 [Olist E-Commerce Analysis](link) — $7.2M revenue opportunity surfaced
+- 🛒 [Olist E-Commerce Analysis](https://github.com/SURAJRAJPUT2006/Olist-Revenue-Leakage-and-Retention-Analysis.git) — $7.2M revenue opportunity surfaced
 
 ### 🛠️ Stack
 SQL · Python · Scikit-learn · Looker Studio · Streamlit
